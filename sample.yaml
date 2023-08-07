@@ -1,0 +1,111 @@
+---
+sftp_users:
+  - name: VFT4201
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test
+  - name: VFT4211
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test       
+  - name: VFT4204
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test
+  - name: VFT4203
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test
+  - name: VFT4208
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test   
+  - name: VFT4299
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test
+  - name: VFT4221
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test  
+  - name: VFT4121
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test  
+  - name: VFT4444
+    directories:
+      - inbound
+      - outbound
+      - exceptions/duplicate_ucid
+      - test  
+  - name: VFT4445
+      directories:
+        - inbound
+        - outbound
+        - exceptions/duplicate_ucid
+        - test   
+  - name: VFT4448
+      directories:
+        - inbound
+        - outbound
+        - exceptions/duplicate_ucid
+        - test   
+
+  - name: VFT4449
+      directories:
+        - inbound
+        - outbound
+        - exceptions/duplicate_ucid
+        - test 
+  - name: VFT4479
+      directories:
+        - inbound: 101
+        - outbound:102
+        - exceptions/duplicate_ucid:103
+        - test:104
+  - name: VFT5007
+      directories:
+        - inbound: 101
+        - outbound:102
+        - exceptions/duplicate_ucid:103
+        - test:104
+  - name: VFT5000
+      directories:
+        - inbound: 101
+        - outbound:102
+        - exceptions/duplicate_ucid:103
+        - test:104
+  - name: VFT50021
+      directories:
+        - inbound: 101
+        - outbound:102
+        - exceptions/duplicate_ucid:103
+        - test:104
+  - name: VFT50022
+      directories:
+        - inbound: 101
+        - outbound:102
+        - exceptions/duplicate_ucid:103
+        - test:104
+    - name: VFT50023
+      directories:
+        - inbound: 101
+        - outbound:102
+        - exceptions/duplicate_ucid:103
+        - test:104
